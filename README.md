@@ -3,8 +3,8 @@
 I am Brian Miller, a data scientist based out of Denver, Colorado. I am currently an analyst for Boston Scientific and have been working in analytics full time for four years. Driven by a genuine passion for continuous learning and problem-solving, I excel in sifting through substantial data sets and crafting machine learning models to enhance business decision-making. I have experience in:  
 * Python, SQL, R, Bash
 * Machine Learning
-* Data Visualization
 * Bioinformatics
+* Data Visualization
 
 My journey into data science started during my college years. Intrigued by bioinformatics, I joined a research lab, where I played a pivotal role in setting up the lab's computational pipeline for analyzing genetic expression sequencing data :test_tube: I then joined the genetics division of a hospital, where I collaborated with post-docs to identify rare genetic mutations within the human population :dna: :microscope:. Through these experiences I discovered my interest in learning new technologies and delving into predictive analytics, which steered me towards getting my masters in data science.
 
