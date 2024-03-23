@@ -1,6 +1,6 @@
 ### Hi there and welcome to my profile! 👋
 
-I am Brian Miller, a data scientist based out of Denver, Colorado. I'm currently an analyst for Boston Scientific and have been working in analytics full time for four years. Driven by a genuine passion for continuous learning and problem-solving, I excel in sifting through substantial data sets and crafting machine learning models to enhance business decision-making. I have experience in:  
+I am Brian Miller, a data analyst based out of Denver, Colorado. I'm currently an analyst for Boston Scientific and have been working in analytics full time for four years. Driven by a genuine passion for continuous learning and problem-solving, I excel in sifting through substantial data sets and crafting machine learning models to enhance business decision-making. I have experience in:  
 * Machine Learning
 * Bioinformatics
 * Python, SQL, R, Bash
